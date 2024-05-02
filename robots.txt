@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://csc-bo.github.io/sitemap.xml
