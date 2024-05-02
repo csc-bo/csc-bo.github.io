@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bo&#39;s Log</title>
-    <link>http://localhost:3676/</link>
+    <link>https://csc-bo.github.io/</link>
     <description>Recent content on Bo&#39;s Log</description>
     <image>
       <title>Bo&#39;s Log</title>
-      <url>http://localhost:3676/favicon.ico</url>
-      <link>http://localhost:3676/favicon.ico</link>
+      <url>https://csc-bo.github.io/favicon.ico</url>
+      <link>https://csc-bo.github.io/favicon.ico</link>
     </image>
     <generator>Hugo -- 0.125.4</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 May 2024 12:10:45 +0800</lastBuildDate>
-    <atom:link href="http://localhost:3676/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://csc-bo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep Learning FAQ</title>
-      <link>http://localhost:3676/faq/</link>
+      <link>https://csc-bo.github.io/faq/</link>
       <pubDate>Thu, 02 May 2024 12:10:45 +0800</pubDate>
-      <guid>http://localhost:3676/faq/</guid>
+      <guid>https://csc-bo.github.io/faq/</guid>
       <description>What is Deep Learning? Deep learning is a subfield of artificial intelligence (AI) that focuses on training artificial neural networks to learn and make intelligent decisions. These networks are inspired by the structure and function of the human brain, and they can learn from vast amounts of data to perform tasks such as image recognition, natural language processing, and machine translation.
 How does Deep Learning work? Deep learning models are typically composed of multiple layers of interconnected nodes, known as neurons.</description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:3676/posts/my-first-post/</link>
+      <title>Notes for MIT 6.S191</title>
+      <link>https://csc-bo.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 01 May 2024 21:52:19 +0800</pubDate>
-      <guid>http://localhost:3676/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://csc-bo.github.io/posts/my-first-post/</guid>
+      <description>1. Introduction to Deep Learning After watch one of Feifei Li and Geffery Hinton&amp;rsquo;s video on Youtube, I start to gain interest in DeepLearning, then I found this MIT course online that is a very comprehensive introduction for the Deep Learning which perfect for beginners like myself. This blog post marks the beginning of my journey into the world of machine learning, serving as a collection for my course notes and insights from related materials.</description>
     </item>
   </channel>
 </rss>
