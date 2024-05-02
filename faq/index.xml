@@ -1,32 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Bo&#39;s Log</title>
-    <link>http://localhost:3676/</link>
-    <description>Recent content on Bo&#39;s Log</description>
+    <title>Faqs on Bo&#39;s Log</title>
+    <link>http://localhost:3531/faq/</link>
+    <description>Recent content in Faqs on Bo&#39;s Log</description>
     <image>
       <title>Bo&#39;s Log</title>
-      <url>http://localhost:3676/favicon.ico</url>
-      <link>http://localhost:3676/favicon.ico</link>
+      <url>http://localhost:3531/favicon.ico</url>
+      <link>http://localhost:3531/favicon.ico</link>
     </image>
     <generator>Hugo -- 0.125.4</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 May 2024 12:10:45 +0800</lastBuildDate>
-    <atom:link href="http://localhost:3676/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:3531/faq/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep Learning FAQ</title>
-      <link>http://localhost:3676/faq/</link>
+      <link>http://localhost:3531/faq/faq/</link>
       <pubDate>Thu, 02 May 2024 12:10:45 +0800</pubDate>
-      <guid>http://localhost:3676/faq/</guid>
+      <guid>http://localhost:3531/faq/faq/</guid>
       <description>What is Deep Learning? Deep learning is a subfield of artificial intelligence (AI) that focuses on training artificial neural networks to learn and make intelligent decisions. These networks are inspired by the structure and function of the human brain, and they can learn from vast amounts of data to perform tasks such as image recognition, natural language processing, and machine translation.
 How does Deep Learning work? Deep learning models are typically composed of multiple layers of interconnected nodes, known as neurons.</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:3676/posts/my-first-post/</link>
-      <pubDate>Wed, 01 May 2024 21:52:19 +0800</pubDate>
-      <guid>http://localhost:3676/posts/my-first-post/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
