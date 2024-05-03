@@ -1,22 +1,20 @@
 +++
-title = 'Algorithm_ninja'
+title = 'Algorithm Ninja'
 date = 2024-05-03T11:34:01+08:00
 draft = false
 +++
 
-# Algorithm Ninja
 ## TODO List
 ### Data Structures
-- [ ] Arrays
-- [ ] Linked Lists
-- [ ] Stacks
-- [ ] Queues
-- [ ] Deques
-- [ ] Trees (Binary, AVL, Red-Black)
-- [ ] Heaps
-- [ ] Graphs
-- [ ] Tries (Prefix)
-- [ ] Hash Tables
+- [x] Array
+- [x] Linked List
+- [x] Stack
+- [x] Queue
+- [ ] Tree (Binary, AVL, Red-Black)
+- [ ] Heap
+- [ ] Graph
+- [ ] Trie (Prefix)
+- [x] Hash Table
 
 ### Searching Algorithms
 - [ ] Linear Search
@@ -101,6 +99,6 @@ draft = false
 
 To mark an item as completed, replace `[ ]` with `[x]` or `[√]` before the item. For example:
 
-- [x] Arrays
+- [x] Item 1
 
 This will show a check mark next to the item, indicating it's been completed.

@@ -11,8 +11,18 @@
     </image>
     <generator>Hugo -- 0.125.4</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 May 2024 21:52:19 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 11:55:55 +0800</lastBuildDate>
     <atom:link href="https://csc-bo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Structure</title>
+      <link>https://csc-bo.github.io/posts/data_structure/</link>
+      <pubDate>Fri, 03 May 2024 11:55:55 +0800</pubDate>
+      <guid>https://csc-bo.github.io/posts/data_structure/</guid>
+      <description>String
+Definition: A sequence of characters representing text. Example: let myString = &amp;#34;Hello, JavaScript!&amp;#34;; Array
+Definition: A collection of elements, each accessed by an index. Example: let myArray = [1, 2, 3, 4, 5]; Linked List
+Definition: A linear data structure where each element is a node that contains a value and a pointer to the next node. Example: class LinkedListNode { constructor(data) { this.data = data; this.next = null; } } let head = null; // Start with an empty list Stack</description>
+    </item>
     <item>
       <title>Notes for MIT 6.S191</title>
       <link>https://csc-bo.github.io/posts/my-first-post/</link>
