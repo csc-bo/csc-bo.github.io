@@ -50,6 +50,8 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
+  math: true # to enable math
+
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
@@ -133,6 +135,7 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 
 pygmentsUseClasses: true
+
 markup:
   highlight:
     noClasses: false
@@ -141,4 +144,17 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+        enable: true
 publishDir: '../'
