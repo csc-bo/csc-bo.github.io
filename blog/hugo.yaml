@@ -156,5 +156,7 @@ markup:
           inline:
           - - \(
             - \)
+          - - $
+            - $
         enable: true
 publishDir: '../'
