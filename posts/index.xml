@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Bo&#39;s Log</title>
+    <title>Posts on Bo&#39;s Log | What I cannot create, I do not understand</title>
     <link>https://csc-bo.github.io/posts/</link>
-    <description>Recent content in Posts on Bo&#39;s Log</description>
+    <description>Recent content in Posts on Bo&#39;s Log | What I cannot create, I do not understand</description>
     <image>
-      <title>Bo&#39;s Log</title>
+      <title>Bo&#39;s Log | What I cannot create, I do not understand</title>
       <url>https://csc-bo.github.io/favicon.ico</url>
       <link>https://csc-bo.github.io/favicon.ico</link>
     </image>
@@ -22,6 +22,13 @@
 Definition: A sequence of characters representing text. Example: let myString = &amp;#34;Hello, JavaScript!&amp;#34;; Array
 Definition: A collection of elements, each accessed by an index. Example: let myArray = [1, 2, 3, 4, 5]; Linked List
 Definition: A linear data structure where each element is a node that contains a value and a pointer to the next node. Example: class LinkedListNode { constructor(data) { this.data = data; this.next = null; } } let head = null; // Start with an empty list Stack</description>
+    </item>
+    <item>
+      <title>Roadmap for machine lerning</title>
+      <link>https://csc-bo.github.io/posts/roadmap_ml/</link>
+      <pubDate>Thu, 02 May 2024 12:14:51 +0800</pubDate>
+      <guid>https://csc-bo.github.io/posts/roadmap_ml/</guid>
+      <description>Machine Learning Courses UofT MAT334 Complex Variables MAT223&amp;amp;MAT224 Linear Algebra I&amp;amp;II MAT236 Vector Calculus STA302H1/STA1001: Methods of Data Analysis I MIT 6.S191 Introduction to Deep Learning Sequence to Sequence Computer Vision Reinforcement Learning Generative Modeling Lab 1: Tensorflow, Tensor, Auto differentiation, GradientTape, RNN Lab 2: MNIST, CNN, VAEs, Debiasing Facial Detection extra lab llm finetune self driving Standford [ ] CS229: Machine Learning [ ] CS231n: Deep Learning for Computer Vision Assignments Assignment #1 Image Classification, kNN, SVM, Softmax, Fully Connected Neural Network Assignment #2 Fully Connected and Convolutional Nets, Batch Normalization, Dropout, Pytorch &amp;amp; Network Visualization Assignment #3 Image Captioning with RNNs and Transformers, Network Visualization, Generative Adversarial Networks, Self-Supervised Contrastive Learning Lecture 1: Computer vision overview Deep Learning Basics Lecture 2: Image Classification with linear Classifiers The data-driven approch K-nearest neighbor Linear classifiers Algebraic/Visual/ Geometric veiwpoints SVM and Softmax loss Lecture 3: Regularization and Optimization Regularization Stochastic Gradient Descent Momentum, AdaGrad, Adam Learning rate schedules Lecture 4: Neural Networks and Backpropagation Multi-layer Perceptron Backpropagation Perceiving and Understanding the Visual World Lecture 5: Image Classification with CNNs History Higher-level representations, image features Convolution and pooling Lecture 6: CNN Architectures Batch Normalization Transfer learning AlexNet, VGG, GoogLeNet, ResNet Lecture 7: Recurrent Neural Networks RNN, LSTM, GRU Language modeling Image captioning Sequence-to-sequence Lecture 8: Attention and Transformers Self-Attention Transformers Lecture 9: Object Detection and Image Segmentation Single-stage detectors Two-stage detectors Semantic/Instance/Panoptic segmentation Lecture 10: Video Understanding Video classification 3D CNNs Two-stream networks Multimodal video understanding Lecture 11: Visualizing and Understanding Feature visualization and inversion Adversarial examples DeepDream and style transfer Generative and Interactive Visual Intelligence Lecture 12: Self-supervised Learning Pretext tasks Contrastive learning Multisensory supervision Lecture 13: Generative Models Generative Adversarial Network Diffusion models Autoregressive models Lecture 14: OpenAI Sora Diffusion models Lecture 15: Robot Learning Deep Reinforcement Learning Model Learning Robotic Manipulation Lecture 16: Human-Centered Artificial Intelligence Lecture 17: Guest Lecture by Prof.</description>
     </item>
     <item>
       <title>Notes for MIT 6.S191</title>

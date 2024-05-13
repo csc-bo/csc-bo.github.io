@@ -1,6 +1,6 @@
 baseURL : 'https://csc-bo.github.io/'
 languageCode : 'en-us'
-title : "Bo's Log"
+title : "Bo's Log | What I cannot create, I do not understand"
 theme : 'PaperMod'
 
 enableRobotsTXT: true
@@ -65,7 +65,7 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
@@ -144,6 +144,10 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 1
   goldmark:
     extensions:
       passthrough:
@@ -159,4 +163,9 @@ markup:
           - - $
             - $
         enable: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
 publishDir: '../'
