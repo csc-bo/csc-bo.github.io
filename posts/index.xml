@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- 0.125.4</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 May 2024 12:14:51 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 16:30:19 +0800</lastBuildDate>
     <atom:link href="https://csc-bo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes for CS231n: Deep Learning for Computer Vision</title>
+      <link>https://csc-bo.github.io/posts/cs231/</link>
+      <pubDate>Mon, 06 May 2024 16:30:19 +0800</pubDate>
+      <guid>https://csc-bo.github.io/posts/cs231/</guid>
+      <description>Assignments Assignment #1 Image Classification, kNN, SVM, Softmax, Fully Connected Neural Network Assignment #2 Fully Connected and Convolutional Nets, Batch Normalization, Dropout, Pytorch &amp;amp; Network Visualization Assignment #3 Image Captioning with RNNs and Transformers, Network Visualization, Generative Adversarial Networks, Self-Supervised Contrastive Learning Deep Learning Basics Lecture 1: Computer vision overview
+Lecture 2: Image Classification with linear Classifiers
+The data-driven approch What is data-driven approaches linear classification &amp;amp; kNN means? Data-Driven Approach: 1.</description>
+    </item>
     <item>
       <title>Roadmap for machine lerning</title>
       <link>https://csc-bo.github.io/posts/roadmap_ml/</link>

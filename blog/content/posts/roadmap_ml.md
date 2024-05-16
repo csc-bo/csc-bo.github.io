@@ -59,13 +59,13 @@ Image Captioning with RNNs and Transformers, Network Visualization, Generative A
     - [x] Backpropagation
 ##### Perceiving and Understanding the Visual World
 - [ ] **Lecture 5: Image Classification with CNNs**
-    - [ ] History
-    - [ ] Higher-level representations, image features
-    - [ ] Convolution and pooling
+    - [x] History
+    - [x] Higher-level representations, image features
+    - [x] Convolution and pooling
 - [ ] **Lecture 6: CNN Architectures**
-    - [ ] Batch Normalization
-    - [ ] Transfer learning
-    - [ ] AlexNet, VGG, GoogLeNet, ResNet
+    - [x] Batch Normalization
+    - [x] Transfer learning
+    - [x] AlexNet, VGG, GoogLeNet, ResNet
 - [ ] **Lecture 7: Recurrent Neural Networks**
     - [ ] RNN, LSTM, GRU
     - [ ] Language modeling
