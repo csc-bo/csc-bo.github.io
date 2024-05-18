@@ -11,10 +11,24 @@
     </image>
     <generator>Hugo -- 0.125.4</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 May 2024 16:30:19 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 17:30:19 +0800</lastBuildDate>
     <atom:link href="https://csc-bo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Notes for CS231n: Deep Learning for Computer Vision</title>
+      <title>Notes for CS231n: Part 3</title>
+      <link>https://csc-bo.github.io/posts/cs231p3/</link>
+      <pubDate>Sat, 18 May 2024 17:30:19 +0800</pubDate>
+      <guid>https://csc-bo.github.io/posts/cs231p3/</guid>
+      <description>Generative and Interactive Visual Intelligence Lecture 12: Self-supervised Learning Pretext tasks Contrastive learning Multisensory supervision Lecture 13: Generative Models Generative Adversarial Network Diffusion models Autoregressive models Lecture 14: OpenAI Sora Diffusion models Lecture 15: Robot Learning Deep Reinforcement Learning Model Learning Robotic Manipulation Lecture 16: Human-Centered Artificial Intelligence Lecture 17: Guest Lecture by Prof. Serena Yeung-Levy Lecture 18: 3D Vision 3D shape representations Shape reconstruction Neural implicit representations </description>
+    </item>
+    <item>
+      <title>Notes for CS231n: Part 2</title>
+      <link>https://csc-bo.github.io/posts/cs231p2/</link>
+      <pubDate>Sat, 18 May 2024 16:30:19 +0800</pubDate>
+      <guid>https://csc-bo.github.io/posts/cs231p2/</guid>
+      <description>Perceiving and Understanding the Visual World Lecture 5: Image Classification with CNNs History https://zhuanlan.zhihu.com/p/352438848 Higher-level representations, image features Convolution and pooling Lecture 6: CNN Architectures Batch Normalization Transfer learning AlexNet, VGG, GoogLeNet, ResNet Lecture 7: Recurrent Neural Networks RNN, LSTM, GRU Language modeling Image captioning Sequence-to-sequence Lecture 8: Attention and Transformers Self-Attention Transformers Lecture 9: Object Detection and Image Segmentation Single-stage detectors Two-stage detectors Semantic/Instance/Panoptic segmentation Lecture 10: Video Understanding Video classification 3D CNNs Two-stream networks Multimodal video understanding Lecture 11: Visualizing and Understanding Feature visualization and inversion Adversarial examples DeepDream and style transfer </description>
+    </item>
+    <item>
+      <title>Notes for CS231n: Part 1</title>
       <link>https://csc-bo.github.io/posts/cs231/</link>
       <pubDate>Mon, 06 May 2024 16:30:19 +0800</pubDate>
       <guid>https://csc-bo.github.io/posts/cs231/</guid>
@@ -27,7 +41,7 @@ The data-driven approch What is data-driven approaches linear classification &am
       <link>https://csc-bo.github.io/posts/roadmap_ml/</link>
       <pubDate>Thu, 02 May 2024 12:14:51 +0800</pubDate>
       <guid>https://csc-bo.github.io/posts/roadmap_ml/</guid>
-      <description>Machine Learning Courses UofT MAT334 Complex Variables MAT223&amp;amp;MAT224 Linear Algebra I&amp;amp;II MAT236 Vector Calculus STA302H1/STA1001: Methods of Data Analysis I MIT 6.S191 Introduction to Deep Learning Sequence to Sequence Computer Vision Reinforcement Learning Generative Modeling Lab 1: Tensorflow, Tensor, Auto differentiation, GradientTape, RNN Lab 2: MNIST, CNN, VAEs, Debiasing Facial Detection extra lab llm finetune self driving Standford [ ] CS229: Machine Learning [ ] CS231n: Deep Learning for Computer Vision Assignments Assignment #1 Image Classification, kNN, SVM, Softmax, Fully Connected Neural Network Assignment #2 Fully Connected and Convolutional Nets, Batch Normalization, Dropout, Pytorch &amp;amp; Network Visualization Assignment #3 Image Captioning with RNNs and Transformers, Network Visualization, Generative Adversarial Networks, Self-Supervised Contrastive Learning Lecture 1: Computer vision overview Deep Learning Basics Lecture 2: Image Classification with linear Classifiers The data-driven approch K-nearest neighbor Linear classifiers Algebraic/Visual/ Geometric veiwpoints SVM and Softmax loss Lecture 3: Regularization and Optimization Regularization Stochastic Gradient Descent Momentum, AdaGrad, Adam Learning rate schedules Lecture 4: Neural Networks and Backpropagation Multi-layer Perceptron Backpropagation Perceiving and Understanding the Visual World Lecture 5: Image Classification with CNNs History Higher-level representations, image features Convolution and pooling Lecture 6: CNN Architectures Batch Normalization Transfer learning AlexNet, VGG, GoogLeNet, ResNet Lecture 7: Recurrent Neural Networks RNN, LSTM, GRU Language modeling Image captioning Sequence-to-sequence Lecture 8: Attention and Transformers Self-Attention Transformers Lecture 9: Object Detection and Image Segmentation Single-stage detectors Two-stage detectors Semantic/Instance/Panoptic segmentation Lecture 10: Video Understanding Video classification 3D CNNs Two-stream networks Multimodal video understanding Lecture 11: Visualizing and Understanding Feature visualization and inversion Adversarial examples DeepDream and style transfer Generative and Interactive Visual Intelligence Lecture 12: Self-supervised Learning Pretext tasks Contrastive learning Multisensory supervision Lecture 13: Generative Models Generative Adversarial Network Diffusion models Autoregressive models Lecture 14: OpenAI Sora Diffusion models Lecture 15: Robot Learning Deep Reinforcement Learning Model Learning Robotic Manipulation Lecture 16: Human-Centered Artificial Intelligence Lecture 17: Guest Lecture by Prof.</description>
+      <description>Machine Learning Courses UofT MAT334 Complex Variables MAT223&amp;amp;MAT224 Linear Algebra I&amp;amp;II MAT236 Vector Calculus STA302H1/STA1001: Methods of Data Analysis I MIT 6.S191 Introduction to Deep Learning Sequence to Sequence Computer Vision Reinforcement Learning Generative Modeling Lab 1: Tensorflow, Tensor, Auto differentiation, GradientTape, RNN Lab 2: MNIST, CNN, VAEs, Debiasing Facial Detection extra lab llm finetune self driving Standford Artificial Intelligence a. CS 221 b. At least four of: CS 223A, 224N, 224S, 224U, 224V, 224W, 228, 229, 231A, 231N, 234, 237A, 237B, 238 c.</description>
     </item>
     <item>
       <title>Notes for MIT 6.S191</title>
