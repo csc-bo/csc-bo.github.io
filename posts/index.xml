@@ -11,8 +11,18 @@
     </image>
     <generator>Hugo -- 0.125.4</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2024 11:59:27 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 16:18:00 +0800</lastBuildDate>
     <atom:link href="https://csc-bo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cs231_part2_quiz</title>
+      <link>https://csc-bo.github.io/posts/cs231_part2_quiz/</link>
+      <pubDate>Tue, 21 May 2024 16:18:00 +0800</pubDate>
+      <guid>https://csc-bo.github.io/posts/cs231_part2_quiz/</guid>
+      <description>I used Gemini-1.5-flash to generate all the quizzes and answers. Enjoy!&amp;quot;
+Multiple Choice:
+What is the primary function of a convolutional layer in a ConvNet?
+a) To perform matrix multiplication on the input data. b) To extract features from the input volume by applying learnable filters. c) To classify the input data into different categories. d) To reduce the dimensionality of the input data. What does &amp;ldquo;local connectivity&amp;rdquo; mean in the context of convolutional layers?</description>
+    </item>
     <item>
       <title>CS231_part1_quiz</title>
       <link>https://csc-bo.github.io/posts/cs231_part1_quiz/</link>
