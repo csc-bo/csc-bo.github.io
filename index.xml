@@ -11,8 +11,19 @@
     </image>
     <generator>Hugo -- 0.125.4</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 May 2024 17:30:19 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 11:59:27 +0800</lastBuildDate>
     <atom:link href="https://csc-bo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS231_part1_quiz</title>
+      <link>https://csc-bo.github.io/posts/cs231_part1_quiz/</link>
+      <pubDate>Tue, 21 May 2024 11:59:27 +0800</pubDate>
+      <guid>https://csc-bo.github.io/posts/cs231_part1_quiz/</guid>
+      <description>I use Gemini-1.5-flash generate all the quizs and answers. Enjoy!
+Quiz: Image Classification
+Multiple Choice:
+What is the primary task of image classification?
+a. To identify all the objects present in an image. b. To segment an image into different regions. c. To create a new image based on an input image. d. To assign a label from a fixed set of categories to an input image. What is the data-driven approach to image classification?</description>
+    </item>
     <item>
       <title>Notes for CS231n: Part 3</title>
       <link>https://csc-bo.github.io/posts/cs231p3/</link>
